@@ -1,7 +1,7 @@
 # Roadmap
 
-- [ ] Build NOCTURNE brand site at / — maximalist gothic: engraving textures, skulls, lightning, sharp edges, dark vibes
-- [ ] Generate artwork images (hero engraving, product shots, textures)
-- [ ] Design tokens + fonts (blackletter/serif, bone/blood/gold on black)
-- [ ] Head metadata for index route
-- [ ] Verify build + preview
+- [x] Build NOCTURNE brand site at / — maximalist gothic
+- [x] Generate artwork images (hero engraving, 3 product shots)
+- [x] Design tokens + fonts (UnifrakturMaguntia, Cormorant Garamond, IBM Plex Mono)
+- [x] Head metadata for index route
+- [x] Verify build + preview
